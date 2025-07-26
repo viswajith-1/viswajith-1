@@ -1,5 +1,5 @@
 # 💫 About Me:
-Growing stronger Everyday 🚀<br>Building with MERN 🔨<br>Fun fact I've read more lines in books than code ✅
+Growing stronger Everyday 🚀<br>Building Projects 🔨<br>Fun fact I've read more lines in books than code ✅
 
 
 # 💻 Tech Stack:
