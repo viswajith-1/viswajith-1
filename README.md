@@ -1,5 +1,5 @@
 # 💫 👋 Hi, I'm Viswajith S B
-<br><br>🚀 Fullstack Developer | 💻 MERN | ⚙️ React + Django<br><br>🌱 My main stack revolves around MongoDB, Express, React, Tailwind, Node.js, and Django.<br>💬 Ask me about React, Django, REST APIs, or Fullstack development.<br>📫 Reach me at: viswajithsaji@gmail.com
+🚀 Fullstack Developer | 💻 MERN | ⚙️ React + Django<br><br>🌱 My main stack revolves around MongoDB, Express, React, Tailwind, Node.js, and Django.<br>💬 Ask me about React, Django, REST APIs, or Fullstack development.<br>📫 Reach me at: viswajithsaji@gmail.com
 
 
 ## 🌐 Socials:
