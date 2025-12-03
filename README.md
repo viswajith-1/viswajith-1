@@ -10,7 +10,7 @@
 
 ###
 
-<div align="left">
+<div align="left" style="background-color: white; padding: 12px; border-radius: 8px; display: inline-block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
@@ -28,5 +28,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=viswajith-1&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=viswajith-1&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=viswajith-1&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
