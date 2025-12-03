@@ -6,7 +6,7 @@
   🚀 <b>Software Engineer</b> | MERN Stack & Django | Building Scalable Web Systems<br><br>
   🛠️ Specializing in full-stack development using the <b>MERN stack</b> (MongoDB, Express, React, Node) and Python/Django architecture. <br>
   ⚡ Focused on clean code, RESTful API design, and intuitive UI/UX.<br>
-  🐳 Currently implementing <b>Docker</b> for containerization and consistent deployment workflows.<br>
+  🐳 Currently learning <b>Docker</b> for containerization and consistent deployment workflows.<br>
   📫 <b>Let's connect:</b> <a href="mailto:viswajithsaji@gmail.com">viswajithsaji@gmail.com</a>
 </p>
 
