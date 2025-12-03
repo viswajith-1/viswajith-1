@@ -16,6 +16,14 @@
 
 ###
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,django,docker,tailwind,python&perline=9" />
+  </a>
+</p>
+
+###
+
 <div align="left" style="background-color: white; padding: 12px; border-radius: 8px; display: inline-block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
