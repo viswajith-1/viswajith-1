@@ -2,7 +2,13 @@
 
 ###
 
-<p align="left">🚀 Fullstack Developer | 💻 MERN | ⚙️ React + Django<br><br>🌱 My main stack revolves around MongoDB, Express, React, Tailwind, Node.js, and Django.<br>💬 Ask me about React, Django, REST APIs, or Fullstack development.<br>📫 Reach me at: viswajithsaji@gmail.com</p>
+<p align="left">
+  🚀 <b>Software Engineer</b> | MERN Stack & Django | Building Scalable Web Systems<br><br>
+  🛠️ Specializing in full-stack development using the <b>MERN stack</b> (MongoDB, Express, React, Node) and Python/Django architecture. <br>
+  ⚡ Focused on clean code, RESTful API design, and intuitive UI/UX.<br>
+  🐳 Currently implementing <b>Docker</b> for containerization and consistent deployment workflows.<br>
+  📫 <b>Let's connect:</b> <a href="mailto:viswajithsaji@gmail.com">viswajithsaji@gmail.com</a>
+</p>
 
 ###
 
@@ -22,6 +28,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
 # 📊 GitHub Stats:
