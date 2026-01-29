@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🛠️ Specializing in full-stack development using the MERN stack (MongoDB, Express, React, Node) and Python/Django architecture.<br>⚡ Focused on clean code, RESTful API design, and intuitive UI/UX.<br>🐳 Currently learning Docker for containerization and consistent deployment workflows.<br>📫 Let's connect: viswajithsaji@gmail.com</p>
+<p align="left">🛠️ Specializing in full-stack development using the MERN, NextJS, and Django.<br>⚡ Focused on clean code, RESTful API design, and intuitive UI/UX.<br>🐳 Currently learning Docker for containerization and consistent deployment workflows.<br>📫 Let's connect: viswajithsaji@gmail.com</p>
 
 ###
 
