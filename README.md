@@ -21,9 +21,3 @@
     <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,django&perline=9" />
   </a>
 </p>
-
-###
-
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=viswajith-1&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=viswajith-1&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
