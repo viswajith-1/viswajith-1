@@ -1,14 +1,16 @@
-<h1 align="left">💫 👋 Hi, I'm Viswajith S B</h1>
+<h1 align="left">Hey 👋, I'm Viswajith S B</h1>
 
 ###
 
-<p align="left">
-  🚀 <b>Software Engineer</b> | MERN Stack & Django | Building Scalable Web Systems<br><br>
-  🛠️ Specializing in full-stack development using the <b>MERN stack</b> (MongoDB, Express, React, Node) and Python/Django architecture. <br>
-  ⚡ Focused on clean code, RESTful API design, and intuitive UI/UX.<br>
-  🐳 Currently learning <b>Docker</b> for containerization and consistent deployment workflows.<br>
-  📫 <b>Let's connect:</b> <a href="mailto:viswajithsaji@gmail.com">viswajithsaji@gmail.com</a>
-</p>
+<p align="left">🚀 Software Engineer | MERN Stack & Django | Building Scalable Web Systems</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">🛠️ Specializing in full-stack development using the MERN stack (MongoDB, Express, React, Node) and Python/Django architecture.<br>⚡ Focused on clean code, RESTful API design, and intuitive UI/UX.<br>🐳 Currently learning Docker for containerization and consistent deployment workflows.<br>📫 Let's connect: viswajithsaji@gmail.com</p>
 
 ###
 
@@ -16,8 +18,26 @@
 
 ###
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,django&perline=9" />
-  </a>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+</div>
+
+###
