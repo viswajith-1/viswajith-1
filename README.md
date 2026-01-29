@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🚀 Software Engineer | MERN Stack & Django | Building Scalable Web Systems</p>
+<p align="left">🚀 FullStack Developer | MERN Stack & Django | Building Scalable Web Systems</p>
 
 ###
 
