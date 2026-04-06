@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🛠️ Experience in MERN, NextJS, and Django.<br>⚡ Focused on Clean Code, Reducing Code Complexity, and Designing Stunning UI/UX.<br>🐳 Currently learning Docker for containerization and consistent deployment workflows.<br>📫 Let's connect: viswajithsaji@gmail.com</p>
+<p align="left">🛠️ Experience in MERN, and Django.<br>⚡ Focused on Clean Code, Reducing Code Complexity, and Designing Stunning UI/UX.<br>🐳 Currently learning Docker for containerization and consistent deployment workflows.<br>📫 Let's connect: viswajithsaji@gmail.com</p>
 
 ###
 
